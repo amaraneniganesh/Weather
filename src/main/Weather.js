@@ -15,7 +15,7 @@ const Weather = () => {
 
 
 
-  const apiKey = 'f0f4c592e0286834dee89b227ab7f52f'; // Replace with your OpenWeatherMap API key
+  const apiKey = '016005010c20fc3c0d0973b46716b771'; // Replace with your OpenWeatherMap API key
 
   const getWeather = async (city) => {
     try {
